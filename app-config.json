@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "latestVersion": "1.0.5",
+  "minimumVersion": "1.0.0",
+  "releaseAvailableInJapan": true,
+  "updateMessage": "新しいバージョンで、快適に育成を続けましょう。",
+  "notices": [
+    {
+      "id": "release-1-0-5",
+      "title": "大会後の広告を非表示にできるようになりました",
+      "category": "更新情報",
+      "body": "大会終了後の広告を非表示にできる買い切り機能を追加しました。購入はすべての育成選手に適用され、「購入を復元」にも対応しています。\n\n専属コーチ合宿の動画広告は対象外です。",
+      "startsAt": "2026-11-21T00:00:00Z",
+      "endsAt": null
+    }
+  ]
+}
